@@ -134,6 +134,7 @@ data/curated/*
 # =========================
 .env
 .env.*
+hadoop.env
 docker-compose.override.yml
 
 # =========================
