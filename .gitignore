@@ -147,3 +147,4 @@ docker-compose.override.yml
 *.p12
 secrets/
 *.csv
+big-data-system/data/batch/ethereum/ethereum_sample.csv
