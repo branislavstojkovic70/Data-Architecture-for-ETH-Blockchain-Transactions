@@ -146,4 +146,4 @@ docker-compose.override.yml
 *.pfx
 *.p12
 secrets/
-.csv
+*.csv
